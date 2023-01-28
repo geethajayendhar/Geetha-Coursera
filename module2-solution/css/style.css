@@ -10,6 +10,7 @@ h1 {
    font-size:20px;
    padding: 20px;
    margin:10px;
+   font-size:175%;
 }
 
 
@@ -20,6 +21,7 @@ p {
   overflow:auto;
   border: 1px solid black;
   text-align:justify;
+  font-size:100%;
   
  
   
@@ -37,6 +39,7 @@ p {
   right: 0px;
   padding:2px 15px 2px 15px;
   border:1px solid black;
+  font-size:125%;
 }
 #title1{
   background-color: #FFE5B4;
@@ -45,6 +48,7 @@ p {
   right: 0px;
   padding:2px 15px 2px 15px;
   border:1px solid black;
+  font-size:125%;
 
 }
 #title2{
@@ -54,6 +58,7 @@ p {
   right: 0px;
   padding:2px 15px 2px 15px;
   border:1px solid black;
+  font-size:125%;
 }
 .row {
   width: 100%;
