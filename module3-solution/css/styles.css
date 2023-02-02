@@ -1,0 +1,136 @@
+*{
+    
+   font-family: Papyrus, Copperplate, Fantasy;
+}
+.navbar > .container-fluid{
+  background-color: lightblue;
+  margin:0px;
+  width:100%;
+}
+
+#header-nav{
+  margin-bottom:0px;
+  border-bottom:1px;
+  border-style:solid;
+  border-color:#61122f;
+}
+
+body {
+  font-size: 15px;
+  color: #fff;
+  background-color: pink;
+  margin:0px;
+  padding:0px;
+}
+
+#main-content
+{
+  margin:0px;
+}
+/** HEADER **/
+.navbar-brand {
+  margin:20px;
+  padding:10px 0px 0px 35px;
+}
+
+h1{
+    color:black;
+    margin:0px;
+    padding:0px;
+    font-size:200%;
+
+}
+h2{
+   font-size:20px;
+   padding: 0px 10px 10px 10px;
+   margin:10px;
+  font-size:175%;
+ 
+}
+h3{
+  color:yellow;
+  font-size:20px;
+  padding:5px 0 0 0;
+  margin:0px;
+
+}
+ .Content
+ {
+  color:black;
+  margin-bottom:0px;
+  padding:0px;
+  background-color: lightblue;
+ }
+
+.Cont{
+    padding:10px 20px 10px 20px;
+  }
+
+
+  }
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a{
+  color: #951C49;
+  border-top:1px; 
+  border-right:0px;
+  border-bottom:0px;
+  border-left:0px;
+  border-style:solid;
+  border-color:#61122f;
+}
+
+
+
+
+
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+ 
+.navbar-toggle{
+  margin: 30px;
+}
+
+.icon-bar{
+  border: 1px solid #61122f;
+}
+
+.icon-large{
+   font-size: 75px;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: black;
+    border-radius:0px;
+}
+
+.navbar-collapse{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.navbar-nav{
+  margin:0px;
+}
+/********** Small devices only **********/
+@media (max-width: 767px) {
+  /* Header */
+  .navbar-brand
+  {
+    padding-left:5px;
+    margin:20px 0px 0px 0px;
+  }
+  .Content {
+    margin: 0 50px 15px;
+
+  }
+
+ 
+
+  }
